@@ -1,0 +1,3 @@
+([('main-GUI',
+   '/Users/lianfeiyang/Documents/攻防课设/pyscan/dist/main-GUI',
+   'EXECUTABLE')],)
